@@ -1,3 +1,7 @@
+Hexagon Map
+A visual map interface built with Angular. You can preview the project live on GitHub Pages:
+🔗 [Live Demo](https://malovaniy.github.io/hexagonMap/)
+
 ## 🚀 Getting Started Locally
 
 To run the project on your local machine, follow these steps:
